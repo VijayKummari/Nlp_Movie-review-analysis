@@ -26,7 +26,12 @@ This is a basic **Natural Language Processing (NLP)** project that performs sent
 
 ## 🗂️ Project Structure
 
-
+basic_sentiment_analysis/
+│
+├── app.py               # Streamlit app
+├── README.md            # Short description of the project
+├── requirements.txt     # Required libraries (optional for now)
+└── sample_data.csv    
 
 
 
